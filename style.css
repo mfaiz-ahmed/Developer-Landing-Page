@@ -30,3 +30,13 @@ width: 100%;}
 
 .you{font-size: 9.6rem;
 font-family: Roboto;}
+
+.box{position: absolute;
+top: 85%;
+text-align: left;
+left: 7%;}
+
+.borderr{border-radius: 20px;}
+
+.zoom:hover{}
+
